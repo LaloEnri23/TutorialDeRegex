@@ -33,5 +33,5 @@ Feel free to modify the regular expression or adapt it to suit your specific req
 Contributions to this tutorial are welcome! If you have any suggestions, improvements, or additional insights, please feel free to contribute by following the standard GitHub workflow of forking the repository, making changes, and submitting a pull request.
 
 ## License
-This tutorial is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the tutorial as per the terms of the license.
+N/A
 
